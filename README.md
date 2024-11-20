@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Vivian CR James
 
-Welcome to my GitHub! I’m an Executive Director at Storytelling Arts Inc., with a strong background in nonprofit leadership, UX design, and technology. My work combines the power of storytelling, user experience, and cross-disciplinary collaboration to create meaningful, impactful projects. 
+Welcome to my GitHub! I’m an Executive Director at Storytelling Arts Inc. and former Deloitte Business Analyst with a strong background in nonprofit leadership, creative problem solving, and technology. My work combines the power of storytelling, user experience, and cross-disciplinary collaboration to create meaningful, impactful projects. 
 
 ## 🌟 About Me
 
@@ -18,10 +18,10 @@ Welcome to my GitHub! I’m an Executive Director at Storytelling Arts Inc., wit
 - **Nonprofit Leadership**: Skilled in strategic planning, fundraising, and program development
 
 ### Technology
-- **Languages**: Proficient in HTML, CSS, and learning Java
-- **Tools**: Figma, Adobe Creative Suite, Git, GitHub
+- **Languages**: Learning  HTML, CSS, and learning Java
+- **Tools**: Figma, Jira, Confluence, Git, GitHub
 - **Technical Communication**: Strong background in explaining complex tech concepts to non-technical stakeholders
-
+- **Software Lifecycle Development**: Experienced in collaborating across all stages of the SLCD, including gathering requirements, creating user stories, coordinating between technical and business teams, and supporting implementation processes.
 ---
 
 
