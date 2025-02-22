@@ -28,6 +28,4 @@ I’m always open to collaborating on projects that blend tech and design with a
 Thanks for stopping by! ✨ Let’s create experiences that inspire and connect people.
 
 
----
 
-Thanks for stopping by! ✨ Let's create experiences that inspire and connect people.
