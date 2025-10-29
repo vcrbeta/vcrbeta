@@ -1,6 +1,8 @@
 # 👋 Hi, I’m Vivian CR James 
 Program & Project Leader at Storytelling Arts Inc. | Full-Stack Developer | Former Deloitte Business Analyst
 Welcome to my GitHub! 
+
+
 🌟 About Me
 I lead programs and projects that combine nonprofit impact, creative problem-solving, and technology. I excel at leveraging AI to enhance workflows, troubleshoot issues, and accelerate development, creating more efficient and impactful outcomes.
 
