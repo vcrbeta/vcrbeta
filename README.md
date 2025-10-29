@@ -1,26 +1,44 @@
-# 👋 Hi, I’m Vivian CR James  
-Welcome to my GitHub! I’m an Executive Director at Storytelling Arts Inc. and former Deloitte Business Analyst with a strong background in nonprofit leadership, creative problem solving, and technology. My work combines the power of storytelling, user experience, and cross-disciplinary collaboration to create meaningful, impactful projects.
+# 👋 Hi, I’m Vivian CR James 
+Program & Project Leader at Storytelling Arts Inc. | Full-Stack Developer | Former Deloitte Business Analyst
+Welcome to my GitHub! 
+🌟 About Me
+I lead programs and projects that combine nonprofit impact, creative problem-solving, and technology. I excel at leveraging AI to enhance workflows, troubleshoot issues, and accelerate development, creating more efficient and impactful outcomes.
 
-### 🌟 About Me
-- **Executive Director at Storytelling Arts Inc.** | Lambertville, NJ
-- Background in **UX Design and Tech** – Passionate about merging storytelling and design to create human-centered digital experiences
-- Currently Learning: **Java, Python, PostgreSQL, advanced UX principles**, and deepening my skills in **Agile methodologies** at Hackbright Academy
-- **Certified Scrum Master** and **Jira Expert**
+Completed Full-Stack Bootcamp at Hackbright Academy
 
-### 🛠️ Skills and Expertise
-**Storytelling & Design**
-- Storytelling in Digital Spaces: Using narrative to create engaging, user-focused designs
-- UX/UI Design: Creating intuitive, user-friendly experiences
-- Nonprofit Leadership: Skilled in strategic planning, fundraising, and program development
+Recently built a React website from scratch
 
-**Technology**
-- Languages: Learning **HTML, CSS, Java, Python**, and **PostgreSQL**
-- Tools: **Figma, Jira, Confluence, Git, GitHub**
-- Technical Communication: Strong background in explaining complex tech concepts to non-technical stakeholders
-- Software Lifecycle Development: Experienced in collaborating across all stages of the SLCD, including gathering requirements, creating user stories, coordinating between technical and business teams, and supporting implementation processes.
+Currently studying IT fundamentals, cloud, and cybersecurity
 
-### 🤝 Let’s Connect!
-I’m always open to collaborating on projects that blend tech and design with a human-centered approach.
+Certified Scrum Master | Jira Expert
+
+🛠️ Skills & Expertise
+Program & Project Leadership
+
+Planning & executing multi-year programs and projects
+
+Cross-team coordination and stakeholder management
+
+Strategic planning, fundraising, and program evaluation
+
+Full-Stack Development & Tech
+
+Languages: HTML, CSS, Java, Python, PostgreSQL, JavaScript/React
+
+Tools: Figma, Jira, Confluence, Git, GitHub
+
+Software Lifecycle: Requirements gathering, user stories, implementation support
+
+AI Tools: Using AI to streamline coding, debug, analyze data, and support decision-making
+
+Storytelling & UX
+
+Digital storytelling for engaging user experiences
+
+UX/UI design for diverse audiences
+
+🤝 Let’s Connect
+I’m open to collaborations that blend program leadership, tech, AI, and storytelling.
 
 - **LinkedIn**: [linkedin.com/in/viviancrjames](https://linkedin.com/in/viviancrjames)
 - **Email**: [vivian@viviancrjames.com](mailto:vivian@viviancrjames.com)
